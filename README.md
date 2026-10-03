@@ -27,10 +27,11 @@ Excel Tables, Pivot Tables, Pivot Charts, Slicers, formulas, data cleaning
 - Purchases with a discount: 43%
 
 ## Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard_part_1.png)
+![Dashboard](Dashboard_part_2.png)
 
 ## Pivot Tables
-![Pivot Tables](pivot_tables.png)
+![Pivot Tables](Pivot_tables.png)
 
 ## Key Insights
 1. **Two categories carry the business.** Clothing (104,264 USD, 45%) and Accessories (74,200 USD, 32%) bring about 77% of total revenue. Outerwear is the smallest at 8%.
